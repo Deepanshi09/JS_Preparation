@@ -6,13 +6,15 @@ Q3. Star pattern ?
 Q4. Find Max occuring character in a string ?
 Q5. Find duplicate elements from an array?
 Q6. Sort the array without using any inbuilt function?
-Q7. freeze any key in an abject?
-Q8. Add keys in an object ?
-Q9. Print 1 to n num . if divisible by 3, print fizz. if divisible by 5 , print buzz, if divisible by both prints fizz buzz?
-Q10. Print 1 to 100 but after 5 sec?
-Q11. Convert array into obj & obj into array ?
-Q12. find missing number in an array?
-Q13. rotate the array ?
-Q14. given 2 unsorted array and find their median ?
-Q15. we have 2 objects and we create one new obj having duplicated keys and values?
-Q16. correct its sequences : [{(}]))))]{{]])
+Q7. Find factorial of a number?
+Q8. print fibonacci series?
+Q9. Print 1 to 100 but after 5 sec?
+Q10. Find missing number in an array?
+Q11. rotate the array ?
+Q13. given 2 unsorted array and find their median ?
+Q14. we have 2 objects and we create one new obj having duplicated keys and values?
+Q15. correct its sequences : [{(}]))))]{{]])
+Q16. freeze any key in an abject?
+Q17. Add keys in an object ?
+Q18. Print 1 to n num . if divisible by 3, print fizz. if divisible by 5 , print buzz, if divisible by both prints fizz buzz?
+Q19. Convert array into obj & obj into array ?
